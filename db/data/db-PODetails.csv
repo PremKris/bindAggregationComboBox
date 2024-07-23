@@ -1,0 +1,6 @@
+vendorNo,orderNumber,vendorName,vendorGstin,CompanyCode,City,TotalValue,poDate,poChangedate,purchOrgName,poVersion,copySupplier,PlantCode,contractNo,curr,email
+V001,PO123456,Acme Supplies,27AABCU9603R1ZM,C001,Mumbai,500000,2024-07-01,2024-07-15,PurchasingOrg1,1,Supplier1,P001,CN1234,INR,acme.supplies@example.com
+V002,PO123457,Global Traders,29AAACG1234F1ZL,C002,Bangalore,750000,2024-06-25,2024-07-10,PurchasingOrg2,2,Supplier2,P002,CN1235,INR,global.traders@example.com
+V003,PO123458,Tech Innovators,06AAACT6206G1Z3,C003,Delhi,1000000,2024-07-05,2024-07-16,PurchasingOrg3,3,Supplier3,P003,CN1236,INR,tech.innovators@example.com
+V004,PO123459,Industrial Solutions,09AAACI1123J1ZM,C004,Kolkata,250000,2024-07-08,2024-07-18,PurchasingOrg4,1,Supplier4,P004,CN1237,INR,industrial.solutions@example.com
+V005,PO123460,Eco Goods,24AABCE1234F1Z2,C005,Ahmedabad,600000,2024-07-12,2024-07-19,PurchasingOrg5,2,Supplier5,P005,CN1238,INR,eco.goods@example.com
